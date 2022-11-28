@@ -90,8 +90,8 @@ Função | Nome | GitHub & LinkedIn
 -------|------|-------------------
 Scrum Master | Matheus Roberto | 
 Product Owner | Julio Cesar | 
-Dev | Juan Ricardo Leme Faria | [<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=54C5CE&color=292A2D"/>](https://github.com/juanfaria01) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=54C5CE&color=292A2D" />](https://www.linkedin.com/in/juan-faria-77b7a8237)
-Dev | Bryan Rosário | [<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=54C5CE&color=292A2D"/>](https://github.com/bryanrosario) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=54C5CE&color=292A2D" />](https://www.linkedin.com/in/bryan-ros%C3%A1rio-a05a6524b)
-Dev | Camila Aparecida da Costa | [<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=54C5CE&color=292A2D"/>](https://github.com/camilacosta29) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=54C5CE&color=292A2D" />](#)
+Dev | Eliane da Silveira | [<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=54C5CE&color=292A2D"/>](https://github.com/juanfaria01) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=54C5CE&color=292A2D" />](https://www.linkedin.com/in/juan-faria-77b7a8237)
+Dev | Cinira Cristina | 
+Dev | Sérgio Teixeira | 
  
 <a href="#inicio">[Voltar ao início]</a>
