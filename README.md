@@ -76,10 +76,12 @@ CARACTERIZAÇÃO DA CADEIA PRODUTIVA POR MEIO DA COLETA, TRATAMENTO E APRESENTA�
  
 Sprint ID | Data | Tag | Status
 ----------|------|-----|-------
-#1 | 29.08.22 - 18.09.22 | <a href="#">Aqui</a> |
-#2 | 19.09.22 - 09.10.22 | <a href="#">Aqui</a> |
-#3 | 17.10.22 - 06.11.22 | <a href="#">Aqui</a> |  
-#4 | 07.11.22 - 27.11.22 | <a href="#">Aqui</a> |  
+#1 | 19.09.22 |  <p><a href="COLE AQUI">1ª Sprint</a></p> | 
+#2 | 19.09.22 - 09.10.22 | <p><a href="COLE AQUI">2ª Sprint</a></p> | 
+#3 | 17.10.22 - 06.11.22 | <p><a href="https://app.powerbi.com/groups/me/reports/15c159f7-5d32-4e67-b096-1fe9b76fedd2/ReportSection?language=pt-BR">3ª Sprint</a></p> | 
+#3 | 17.10.22 - 06.11.22 | <p><a href="COLE AQUI">3ª Sprint</a></p> | 
+#4 | 07.11.22 - 27.11.22 | <a href="#">Aqui</a> |
+  
 
 <a href="#inicio">[Voltar ao início]</a>
 
